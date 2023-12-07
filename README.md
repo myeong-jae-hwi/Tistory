@@ -1,1 +1,1 @@
-# Tistory
+# Tistory skin
